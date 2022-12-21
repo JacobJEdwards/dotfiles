@@ -1,0 +1,1008 @@
+ssh 224.0.0.251
+ifconfig
+arp -a
+ssh pi@139.222.168.1
+man ssh
+arp -a
+ssh pi@139.222.168.181
+arp -a
+clear
+arp -a
+arp -a
+arp -a
+arp -a
+arp -a
+arp -a
+arp -a
+arp -a
+arp -a
+arp -a
+ssh pi@139.222.171.255
+ssh pi@139.222.168.1
+ping raspberrypi
+ping raspberrypi
+ping raspberrypi
+arp -a
+ping raspberrypi
+arp -a
+ping raspberrypi
+ping raspberrypi
+ping
+ping raspberrypi
+apr -a
+arp -a
+arp -a
+ping raspberrypi
+ping raspberrypi.local
+ping raspberrypi
+arp -a
+ping 139.222.170.234
+ping pi@139.222.170.234
+ssh 139.222.170.234
+arp -a
+ssh 139.222.170.234
+ssh 139.222.171.255
+ssh 224.0.0.251
+clear
+arp -a
+arp -a
+ssh pi@raspberrypi.local
+arp -a
+ssh pi@raspberrypi.local
+arp -a
+ssh pi@raspberrypi.local
+ssh pi@172.20.10.1
+ssh pi@172.20.10.5
+ping
+ping raspberrypi.local
+arp -a
+ssh pi@raspberrypi.local
+ssh pi@raspberrypi.local
+ssh pi@raspberrypi.local
+which jdk
+which python
+which python3
+which openjdk
+brew search rsync
+brew update
+brew upgrade
+brew services restart redis
+brew purge heroku
+cd
+ls
+cd OneDrive - University of East Anglia
+cd 'OneDrive - University of East Anglia'
+cd Programming
+ls
+cd Java
+ls
+cd Lab/week1
+ls
+cd 'Cookie Chip Recipe'
+ls
+cd 'Cookie Chip Recipe'
+ls
+cd 'Cookie Chip'
+ls -a
+cd src
+ls
+javac Main.java
+ls
+java Main
+rm Main.class
+ls
+cd
+ssh pi@raspberrypi.local
+ssh pi@raspberrypi.local
+exit
+ls
+cd 'OneDrive - University of East Anglia'
+ls
+cd Programming
+cd Java
+cd Labs
+ls
+cd week1
+ls
+cd 'Cookie Recipe'
+ls
+javac Main.java
+ls
+java Main.class
+ssh pi@raspberrypi.local
+exit
+node server.js
+stop
+exit
+npm init -y
+npm install express
+npm install ejs
+node server.js
+node server.js
+stop server.js
+node server.js
+node server.js
+node server.js
+node server.js
+npm install express-validator\
+
+node server.js
+node server.js
+npm install debug
+npm install http-errors
+npm install cookie-parser
+npm install morgan
+npm install express
+npm install express-generator
+npm install express-generator -g\
+
+npm audit fix --force
+npm install express-generator -g\
+
+express group_132_wbp --view=ejs
+npm install
+express group_132_wbp --view=ejs
+npm install
+cd group_132_wbp
+npm install
+npm audit
+npm audit fix --force
+npm install express ejs
+brew install node
+npm install -g nodemon
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node server.js
+node app.js
+nodeapp.sj
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+npm install body-parser
+npm install body-parser
+npm install express-validator
+npm install nodemon
+npm start
+node app.js
+node app.js
+node app.js
+node app.js
+npm run start
+node app.js
+node app.js
+node app.js
+node app.js
+npm run start
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+git branch localhostBroke
+git branch
+git checkout localhostBroke
+git commit
+git commit -a
+node app.js
+node app.js
+git branch
+git checkout main
+git checkout main
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+npm start
+npm install cookie-parser
+npm start
+node app.js
+node app.js
+npm start
+ls
+cd 'OneDrive - University of East Anglia'
+npm start
+node app.js
+npm install nodemailer
+npm install dotenv
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+brew update
+brew upgrade
+clear
+ls -a
+ls
+cd /volumes
+ls
+cd
+ls
+rsync ./'OneDrive - University of East Anglia'/ /volumes/BACKUPS -arv
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+brew search umlet
+brew list || grep 'open'
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+brew update
+brew upgrade
+vim file.txt
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+brew install git
+brew uninstall xcode
+brew upgrade
+xcode-select --install
+clear
+ls
+cd Downloads	
+node app.js
+brew search anaconda
+node app.js
+git status
+git pull
+node app.js
+git pull
+git pull
+node app.js
+git pull
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+npm start
+npm start
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+npm start
+npm start
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+git merge main
+git merge
+git merge promise main
+node app.js
+npm update
+node app.js
+npm update
+node app.js
+ls
+cd 'OneDrive - University of East Anglia'
+ls
+cd 'Web Dev'
+ls
+cd Assignment
+git clone https://github.com/JacobJEdwards/group_132_wbp
+git reset --hard
+git pull
+node app.js
+node app.js
+npm init
+npm install --save-dev nodemon
+npm install --save-dev express
+npm install boyd-parser
+npm install body-parser
+npm run dev
+npm init
+npm run dev
+cd app
+npm run dev
+npm install express-session
+npm uninstall express-session
+git pull
+git config pull.rebase true
+git pull
+npm run dev
+npm run dev
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+brew update
+brew upgrade
+clear
+ls
+cd 'OneDrive - University of East Anglia'
+pwd
+history 
+rsync -vrah ./ /Volumes/BACKUPS/'Uni Work'
+clear
+exit
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+npm uninstall eslint
+node app.js
+npm init @eslint/config
+npx eslint
+npx eslint
+node app.js
+npm install helmet
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+npm uninstall helmet
+node app.js
+git pull
+node app.js
+node app.js
+npm install helmet
+node app.js
+npm uninstall helmet
+node app.js
+node app.js
+npm install morgan
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+npm install winston
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+npm install compression
+node app.js
+npm uninstall compression
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js\
+node app.js\
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+npm install compression
+npm install hemlet
+npm install helmet
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+eslint
+npm install eslint --save-dev
+node app.js
+node app.js
+node app.js
+node app.js
+install --save-dev eslint-config-prettier eslint-plugin-prettier
+install eslint-config-prettier eslint-plugin-prettier --save-dev
+install --save-dev eslint-config-prettier
+npm uninstall eslint
+npm install eslint --save-dev
+./node_modules/.bin/eslint --init 
+npm init @eslint/config
+npm init @eslint/config
+npm uninstall eslint
+npm install eslint --save-dev
+./node_modules/.bin/eslint --init 
+npm uninstall eslint
+npm install eslint
+./node_modules/.bin/eslint --init 
+node app.js
+http://eslint.org/docs/user-guide/command-line-interface
+./node_modules/.bin/eslint --init 
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+npm install --save-dev eslint-config-prettier eslint-plugin-prettier
+npm install prettier
+node app.js
+npm install --save-dev ejs-lint
+npx ejslint **/*.ejs
+npx ejslint **//**/*.ejs
+npx ejslint **/**/*.ejs
+ejslint $(find ./ -type f -iname '*.ejs')
+ejslint
+npx ejslint $(find ./ -type f -iname '*.ejs')
+npm ejslint
+npx ejslint
+npx ejslint --help
+npx ejslint ./views/partials/
+npx ejslint ./views/partials/footer.ejs
+npx ejslint ./views/partials/form.ejs
+npx ejslint ./views/partials/formSuccess.ejs
+npx ejslint ./views/partials/head.ejs
+npx ejslint ./views/partials/navigation.ejs
+npx ejslint ./views/partials/signupButton.ejs
+npx ejslint ./views/pages/error404.ejs
+npx ejslint ./views/pages/error404
+npx ejslint ./views/pages/index.ejs
+npx ejslint ./views/pages/reports.ejs
+npx ejslint ./views/pages/team.ejs
+node app.js
+node app.js
+node app.js
+node app.js
+npm install eslint-plugin-sonarjs -g
+npm install eslint -g
+npm install prettier -g
+npm install eslint-plugin-sonarjs --save-dev
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+ls
+cd 'OneDrive - University of East Anglia'
+ls
+cd 'Web Dev'
+ls
+cd Assignment
+git clone OneDrive - University of East Anglia
+git clone https://github.com/JacobJEdwards/group_132_wbp
+cwd
+brew update
+brew upgrade
+npm list -g
+npm uninstall -g express-generator
+npm update
+npm install -g eslint-plugin-promise eslint-plugin-prettier eslint-plugin-n eslint-plugin-import
+npm list -g
+npm install -g eslint-config-standard eslint-config-prettier eslint-config-airbnb-base
+npm uninstall body-parser
+npm uninstall eslint-config-google
+node app.js
+git log
+git config pull.rebase true
+git pull
+git rm logging.log
+git pull
+git pull
+git show
+git rm logging.log
+ssh pi@raspberrypi.local
+ssh pi@raspberrypi.local
+ssh pi@raspberrypi.local
+ssh pi@raspberrypi.local
+ssh pi@raspberrypi.local
+ssh pi@raspberrypi.local
+ssh pi@raspberrypi.local
+ssh pi@raspberrypi.local
+arp -n
+ifconfig
+ssh pi@raspberrypi.local
+arp -a
+ssh pi@224.0.0.251
+shh pi@172.20.10.1
+ssh pi@172.20.10.1
+shh pi@raspberrypi.local
+ssh pi@224.0.0.251
+ssh pi@raspberrypi.local
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+cd messierobjects
+ls
+git status
+git commit
+git status
+git add src/messierobjects/MessierCatalogue.java\
+
+git add src/messierobjects/MessierCatalogueInterface.java
+git add src/messierobjects/MessierObject.java\
+
+git add src/messierobjects/MessierObjectInterface.java\
+
+git add  src/messierobjects/MessierProgram.java
+git status
+git commit
+git branch
+git branch scripts
+git branch
+git checkout scripts
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+git branch
+git checkout main
+git merge scripts
+node app.js
+node app.js
+node app.js
+node app.js
+git branch async
+git checkout async
+git branch
+git status
+git checkout main
+git merge async
+git pull
+git pull
+git status
+git branch
+git pull
+node app.js
+git branch newFetch
+git checkout newFetch
+node app.js
+node app.js
+node app.js
+node app.js
+git branch
+git checkout main
+git merge newFetch
+node app.js
+node app.js
+git log
+node app.js
+git reset --hard 3ca42cc95835f7915ce3aab817154913c6595d61
+git pull
+node app.js
+git log
+git log
+git branch
+node app.js
+git branch fetching
+git checkout fetching
+git commit
+git branch
+git merge fetching
+git branch newSignup
+git checkout newSignup
+git checkout main
+git branch
+git merge newSignup
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+git branch
+git checkout newSignup
+git checkout newSignup
+node app.js
+node app.js
+node app.js
+node app.js
+node app.js
+ /usr/bin/env 'NODE_OPTIONS=--require "/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.js-debug/src/bootloader.bundle.js" --inspect-publish-uid=http' 'VSCODE_INSPECTOR_OPTIONS={"inspectorIpc":"/var/folders/0p/nq42f88s1lv29rqjrynzqvzr0000gn/T/node-cdp.85524-2.sock","deferredMode":false,"waitForDebugger":"","execPath":"/usr/local/bin/node","onlyEntrypoint":false,"autoAttachMode":"always","fileCallback":"/var/folders/0p/nq42f88s1lv29rqjrynzqvzr0000gn/T/node-debug-callback-05dcf0e424f76d1f"}' /usr/local/bin/nodemon ./app.js 
+node app.js
+cd /
+ls
+cd dev
+ls
+cd ..
+ls
+cd Volumes
+ls
+cd BACKUPS
+ls
+cd 'Uni Work'
+ls
+cd
+ls
+cd 'OneDrive - University of East Anglia'
+ls
+rsync -avh ./ /Volumes/BACKUPS/'Uni Work'
+brew update
+brew upgrade
+clear
+git clone https://github.com/amix/vimrc.git ~/.vim_runtime
+sh ~/.vim_runtime/install_awesome_vimrc.sh
+ls
+cd /
+ls
+cd Users
+ls
+cd jacobedwards
+ls
+ls -a
+cd .vim_runtime
+ls -a
+vim test.txt
+ls
+cd
+ls -a
+vim ~/.zshrc
+vim ~/.zshrc
+vim ~/.zshrc
+vim ~/.zsh_aliases
+r
+vim ~/.zsh_aliases
+c
+c
+exit
+x
+ls
+cd .vimrc
+ls
+r
+cd
+r
+vim .zsh_aliases
+r
+ls
+cd .vimrc
+ls
+cd .vimrc
+vim .vimrc
+cd .vim_runtime
+ls
+cd my_plugins
+ls
+cd ..
+ls
+cd vimrcs
+ls
+vim extended.vim
+cd ..
+ls
+cd vimrcs
+ls
+cd ..
+ls
+cd autoload
+ls
+cd ..
+vim my_configs.vim
+ls
+git clone https://github.com/lervag/vimtex my_plugins/vimtex
+ls
+vim my_configs.vim
+vim
+ls
+vim my_configs.vim
+git clone https://github.com/matze/vim-tex-fold my_plugins/vimtex
+git clone https://github.com/matze/vim-tex-fold my_plugins/vim-tex-fold
+vim
+brew cask install vim
+vrew install skim --cask
+brew install skim --cask
+vim my_configs.vim
+cd
+ls
+cd Desktop
+ls
+vim example.tex
+cd 
+ls
+vim .zshrc
+cd Desktop
+ls
+vim example.tex
+cd Library
+cd
+ls
+cd Library
+ls
+cd texmf
+cd
+ls
+cd Library
+ls
+defaults write com.apple.finder AppleShowAllFiles YES
+killall Finder
+mkdir texmf
+cd texmf
+mkdir tex && cd tex
+cd ..
+ls
+cd tex
+mkdir latex %% cd latex
+ls
+rmdir cd
+rmdir %%
+ls
+cd latex
+git clone https://github.com/jacksontvd/tex/tree/master/tex/latex
+cd 
+cd Desktop
+vim example.tex

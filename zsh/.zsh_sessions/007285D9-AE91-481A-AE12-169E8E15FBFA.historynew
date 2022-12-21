@@ -1,0 +1,12 @@
+uea
+cd
+exec zsh
+cd .oh-my-zsh
+cd themes
+ls
+af-magic.zsh-theme
+vim af-magic.zsh-theme
+cd
+exec zsh
+vim .zshrc
+exec zsh

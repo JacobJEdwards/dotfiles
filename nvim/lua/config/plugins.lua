@@ -1,20 +1,24 @@
 return {
     {
-        "joshdick/onedark.vim",
+        'joshdick/onedark.vim',
         name = "onedark",
-        dependencies = {"nvim-tree/nvim-web-devicons"},
+        dependencies = { 'nvim-tree/nvim-web-devicons' },
         config = function()
             vim.cmd("colorscheme onedark")
         end
     },
 
     {
-	    "nvim-telescope/telescope.nvim",
+	    'nvim-telescope/telescope.nvim',
 	    dependencies = {
 		    { 'nvim-lua/plenary.nvim' },
 		    { 'nvim-telescope/telescope-fzf-native.nvim', build = 'make' },
-	}
-
+            { 'benfowler/telescope-luasnip.nvim' },
+            { 'nvim-telescope/telescope-file-browser.nvim' },
+        },
+        cmd = { 'Telescope', 'Tel'},
+        keys = { '<leader>f' },
+        -- config = true,	
     },
 
     {
@@ -54,7 +58,9 @@ return {
 
     {
         'gelguy/wilder.nvim',
-        config = { modes = { ':', '/', '?' } },
+        config = {
+            modes = { ':', '/', '?' }
+        },
     },
 
     { 'github/copilot.vim' },
@@ -70,7 +76,7 @@ return {
         init = function()
             vim.g.mkdp_filetypes = { "markdown" }
         end,
-        ft = { "markdown" },
+        ft = { "markdown", "md" },
     },
 
     {
@@ -79,5 +85,5 @@ return {
         config = true,
     },
 
-    { 'windwp/nvim-autopairs' },
+    { 'windwp/nvim-autopairs' }
 }

@@ -92,6 +92,7 @@ plugins=(
     dirhistory
     macos
     F-Sy-H
+    z
 )
 
 source $ZSH/oh-my-zsh.sh

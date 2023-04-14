@@ -19,7 +19,6 @@ return {
         },
         config = function()
             local lsp = require("lsp-zero")
-
             lsp.preset("recommended")
 
             lsp.ensure_installed({
@@ -48,6 +47,18 @@ return {
                 mapping = cmp_mappings,
                 formatting = {
                     format = lspkind.cmp_format({})
+                },
+                snippet = {
+                    expand = function(args)
+                        require('luasnip').lsp_expand(args.body)
+                    end
+                },
+
+                sources = {
+                    { name = 'nvim_lsp' },
+                    { name = 'luasnip' },
+                    { name = 'buffer' },
+                    { name = 'path' },
                 }
             })
 

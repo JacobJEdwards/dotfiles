@@ -1,6 +1,8 @@
 local opt = vim.opt
 local g = vim.g
 
+opt.termguicolors = true
+
 opt.smartcase = true
 opt.hlsearch = true
 opt.showmatch = true
@@ -13,7 +15,7 @@ opt.ruler = true
 opt.number = true
 opt.relativenumber = true
 
-opt.wildmode = {'longest', 'list', 'full'}
+opt.wildmode = { 'longest', 'list', 'full' }
 opt.wildmenu = true
 
 opt.spell = true
@@ -46,4 +48,3 @@ opt.inccommand = "split"
 
 g.indent_guides_enable_on_startup = 1
 g.python3_host_prog = "/Users/jacobedwards/.pyenv/versions/py3nvim/bin/python"
-

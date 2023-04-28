@@ -76,3 +76,12 @@ eval "$(direnv hook $0)"
 set -o vi
 
 
+path+=$HOME/.docker/bin
+
+export BUN_INSTALL="$HOME/.bun" 
+export PATH="$BUN_INSTALL/bin:$PATH"
+
+# bun completions
+[ -s "/Users/jacobedwards/.bun/_bun" ] && source "/Users/jacobedwards/.bun/_bun"
+
+source /Users/jacobedwards/Library/Application\ Support/org.dystroy.broot/launcher/bash/br

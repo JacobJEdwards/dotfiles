@@ -1,10 +1,35 @@
 return {
     {
-        'joshdick/onedark.vim',
-        name = 'onedark',
+        'marko-cerovac/material.nvim',
         dependencies = { 'nvim-tree/nvim-web-devicons' },
         config = function()
-            vim.cmd("colorscheme onedark")
+            require('material').setup({
+                lualine_style = 'stealth',
+                contrast = {
+                    non_current_windows = true,
+
+                },
+                -- high_visibility = {
+                --     darker = true,
+                -- },
+                styles = {
+                    comments = { italic = true },
+                    strings = { bold = true },
+                    functions = { bold = true, undercurl = true },
+                    keywords = { underline = true },
+                },
+                plugins = {
+                    "dap",
+                    "nvim-tree",
+                    "telescope",
+                    "indent-blankline",
+                    "which-key",
+                    "nvim-cmp",
+                    "nvim-web-devicons",
+                }
+            })
+            vim.g.material_style = "palenight"
+            vim.cmd("colorscheme material")
         end
     },
 
@@ -16,7 +41,7 @@ return {
         config = function()
             require('lualine').setup {
                 options = {
-                    theme = 'onedark',
+                    theme = 'material-stealth',
                     section_separators = '',
                     component_separators = '',
                 },

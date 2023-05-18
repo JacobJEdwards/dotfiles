@@ -44,5 +44,9 @@ return {
             { "nvim-tree/nvim-web-devicons" },
         },
         config = true,
+    },
+    {
+        "aserowy/tmux.nvim",
+        config = true,
     }
 }

@@ -1,0 +1,14 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = JacobJEdwards
+	email = jacob.john1@talktalk.net
+[credential]
+	helper = osxkeychain
+[core]
+	autocrlf = input
+[http]
+	postBuffer = 157286400

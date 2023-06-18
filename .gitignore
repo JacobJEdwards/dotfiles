@@ -19,4 +19,4 @@ npm-debug.log*
 yarn-debug.log* 
 yarn-error.log* 
 
-./gh/.config/gh/hosts.yml
+gh/.config/gh/hosts.yml

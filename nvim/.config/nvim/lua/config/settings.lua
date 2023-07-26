@@ -33,6 +33,8 @@ opt.softtabstop = 4
 opt.shiftwidth = 4
 opt.expandtab = true
 
+opt.swapfile = false
+
 opt.autochdir = true
 
 opt.mouse = "a"

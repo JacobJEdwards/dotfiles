@@ -86,4 +86,10 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 
 source /Users/jacobedwards/Library/Application\ Support/org.dystroy.broot/launcher/bash/br
 export PATH="/usr/local/opt/postgresql@15/bin:$PATH"
-export PATH=/usr/local/opt/postgresql@15/bin:/Users/jacobedwards/.bun/bin:/Users/jacobedwards/.pyenv/shims:/usr/local/sbin:/Users/jacobedwards/.rbenv/shims:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/PostgreSQL/15/bin:/Library/TeX/texbin:/Library/Apple/usr/bin:/Applications/Postgres.app/Contents/Versions/latest/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Applications/kitty.app/Contents/MacOS:/usr/local/opt/fzf/bin:/Users/jacobedwards/.docker/bin:/Applications/Docker.app/Contents/Resources/bin/
+export PATH=$PATH:/usr/local/opt/postgresql@15/bin:/Users/jacobedwards/.bun/bin:/Users/jacobedwards/.pyenv/shims:/usr/local/sbin:/Users/jacobedwards/.rbenv/shims:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/PostgreSQL/15/bin:/Library/TeX/texbin:/Library/Apple/usr/bin:/Applications/Postgres.app/Contents/Versions/latest/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Applications/kitty.app/Contents/MacOS:/usr/local/opt/fzf/bin:/Users/jacobedwards/.docker/bin:/Applications/Docker.app/Contents/Resources/bin/
+
+export GOPATH=$HOME/go
+export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+
+export NVM_DIR="$HOME/.config/nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm

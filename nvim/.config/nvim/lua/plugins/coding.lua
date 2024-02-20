@@ -63,9 +63,9 @@ return {
             }
         end,
     },
-    {
-        "github/copilot.vim",
-        event = "InsertEnter",
-        build = "Copilot auth",
-    },
+    -- {
+    --     "github/copilot.vim",
+    --     event = "InsertEnter",
+    --     build = "Copilot auth",
+    -- },
 }

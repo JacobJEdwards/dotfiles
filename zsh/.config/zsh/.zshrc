@@ -93,3 +93,14 @@ export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 
 export NVM_DIR="$HOME/.config/nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+
+source ~/perl5/perlbrew/etc/bashrc
+
+export PATH="/usr/local/Cellar/llvm/17.0.6_1/bin:$PATH"
+export LDFLAGS="-L/usr/local/Cellar/llvm/17.0.6_1/lib"
+export CPPFLAGS="-I/usr/local/Cellar/llvm/17.0.6_1/include"
+
+# export PATH="/opt/homebrew/opt/llvm/bin:$PATH"
+# export LDFLAGS="-L/opt/homebrew/opt/llvm/lib"
+# export CPPFLAGS="-I/opt/homebrew/opt/llvm/include"
+export PATH="/usr/local/opt/sphinx-doc/bin:$PATH"
